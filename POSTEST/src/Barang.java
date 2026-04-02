@@ -67,7 +67,6 @@ public class Barang {
         }
     }
 
-    // 6. Fitur Menampilkan Informasi Lengkap
     public void tampilkanDetailBarang() {
         System.out.println("ID Barang    : " + this.idBarang);
         System.out.println("Nama Barang  : " + this.namaBarang);
