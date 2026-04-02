@@ -9,7 +9,7 @@ public class Main {
 
         Karyawan karyawanBaru = new Karyawan("CS_031", "Gionaldo", 10000000, "Ilkom");
         
-        System.out.println("\n-gaji minu > ");
+        System.out.println("\n-gaji minus > ");
         karyawanBaru.setGajiPokok(-5000000); 
         
         System.out.println("\nGaji valid > ");
