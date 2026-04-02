@@ -13,8 +13,6 @@ public class RekeningBank {
 
 
 
-
-
     public double getSaldo() {
         return this.saldo;
     }
@@ -29,6 +27,7 @@ public class RekeningBank {
     }
     
     public String getNomorRekening() {
+        this.nomorRekening = "123456";
         return this.nomorRekening;
     }
 

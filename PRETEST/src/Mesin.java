@@ -9,6 +9,8 @@ public class Mesin {
         mesin.isiSaldo(-1000000);
 
         mesin.isiSaldo(1000000);
+        
+        mesin.getNomorRekening();
 
     }
 }
